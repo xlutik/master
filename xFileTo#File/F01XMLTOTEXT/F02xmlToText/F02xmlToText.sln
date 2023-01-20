@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "F02xmlToText", "F02xmlToText\F02xmlToText.csproj", "{16FAFD0C-8797-442A-85EE-072E0C1E6A12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16FAFD0C-8797-442A-85EE-072E0C1E6A12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16FAFD0C-8797-442A-85EE-072E0C1E6A12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16FAFD0C-8797-442A-85EE-072E0C1E6A12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16FAFD0C-8797-442A-85EE-072E0C1E6A12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE41794C-DFB7-42DB-9D80-3CEB2897B923}
+	EndGlobalSection
+EndGlobal

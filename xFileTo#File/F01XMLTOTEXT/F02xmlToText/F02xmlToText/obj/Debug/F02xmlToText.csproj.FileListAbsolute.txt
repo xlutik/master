@@ -1,0 +1,6 @@
+P:\F01XMLTOTEXT\F02xmlToText\F02xmlToText\bin\Debug\F02xmlToText.exe
+P:\F01XMLTOTEXT\F02xmlToText\F02xmlToText\bin\Debug\F02xmlToText.pdb
+P:\F01XMLTOTEXT\F02xmlToText\F02xmlToText\obj\Debug\F02xmlToText.csprojAssemblyReference.cache
+P:\F01XMLTOTEXT\F02xmlToText\F02xmlToText\obj\Debug\F02xmlToText.csproj.CoreCompileInputs.cache
+P:\F01XMLTOTEXT\F02xmlToText\F02xmlToText\obj\Debug\F02xmlToText.exe
+P:\F01XMLTOTEXT\F02xmlToText\F02xmlToText\obj\Debug\F02xmlToText.pdb
