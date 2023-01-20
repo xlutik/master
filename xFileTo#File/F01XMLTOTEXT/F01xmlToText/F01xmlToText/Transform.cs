@@ -11,7 +11,7 @@ namespace F01xmlToText
     {
         public static StreamWriter NewFileName(string FileName = null)
         {
-            if (FileName == null)
+            if (FileName == null) //1
             {
                 FileName = Path.GetRandomFileName();
                 Console.WriteLine(string.Format("New FileName = {0}", FileName));
